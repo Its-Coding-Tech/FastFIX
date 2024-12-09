@@ -10,9 +10,9 @@ Technologies Used
 
 Usage
 
-License 
-
 Authors 
+
+License 
 
 ## Features
 User Roles: Supports multi-role functionalities for customers, service providers, and admins.
@@ -69,12 +69,14 @@ Manage users, service providers, and services.
 Monitor reviews and system performance.
 
 
- ## License
+ 
+ ### Authors
+
+-[@Mohsin Ali](https://www.github.com/Its-Coding-Tech)
+
+## License
 
 This project is licensed under the[ MIT License.](https://choosealicense.com/licenses/mit/)
 
 
- ### Authors
-
--[@Its-Coding-Tech](https://www.github.com/Its-Coding-Tech)
 
