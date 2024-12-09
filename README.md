@@ -3,23 +3,17 @@
 
 FastFIX is an innovative online platform that connects users with trusted service providers for various home services. The system aims to streamline the process of booking and managing home services, making it easier for customers to access quality help and for service providers to grow their businesses.
 
-
-
-
 ## Table of Content 
 Features
 
 Technologies Used
 
-Installation
-
 Usage
 
-Project Structure
+License 
 
-Contributing
+Authors 
 
-License
 ## Features
 User Roles: Supports multi-role functionalities for customers, service providers, and admins.
 
@@ -34,16 +28,23 @@ Secure Authentication: Password protection and role-based access control.
 
 
 ## Technologies To be Used
-Frontend: HTML, CSS, JavaScript, Bootstrap
+### Frontend: 
 
-Backend: PHP
+HTML, CSS, JavaScript, Bootstrap
 
-Database: MySQL
+### Backend:
+PHP
 
-Tools:jQuery
-Usage
+MySQL
 
-Users:
+### Tools:
+Vs Code, 
+Xampp,
+Php My Admin,
+
+## Usage
+
+### Users:
 
 Register or log in to book home services.
 
@@ -51,7 +52,7 @@ View and manage your bookings.
 
 Leave reviews and ratings for completed services.
 
-Service Providers:
+ ### Service Providers:
 
 Register and list your services.
 
@@ -59,7 +60,7 @@ Manage incoming requests.
 
 View customer feedback and ratings.
 
-Admin:
+### Admin:
 
 Log in to the admin panel.
 
@@ -68,12 +69,12 @@ Manage users, service providers, and services.
 Monitor reviews and system performance.
 
 
- License
+ ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the[ MIT License.](https://choosealicense.com/licenses/mit/)
 
 
-Authors
+ ### Authors
 
 -[@Its-Coding-Tech](https://www.github.com/Its-Coding-Tech)
 
